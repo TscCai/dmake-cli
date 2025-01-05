@@ -60,6 +60,8 @@
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
+    <None Include="NewProjectTemplate\demo\makefile.yml" />
+    <None Include="NewProjectTemplate\demo\template\foo.docx" />
     <None Include="packages.config" />
   </ItemGroup>
   <ItemGroup>
@@ -69,6 +71,7 @@
     </ProjectReference>
   </ItemGroup>
   <ItemGroup>
+    <Content Include="NewProjectTemplate\demo\md\demo.md" />
     <Content Include="Properties\ico-cli.ico" />
   </ItemGroup>
   <ItemGroup />

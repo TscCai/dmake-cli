@@ -1,0 +1,6 @@
+filename: 
+    - build/foo.docx
+template: 
+    - bar.docx
+source:
+    - demo.md
